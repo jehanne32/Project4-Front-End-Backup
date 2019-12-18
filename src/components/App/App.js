@@ -128,7 +128,6 @@ class App extends Component {
         <NavBar isLoggedIn={this.state.isLoggedIn} user={this.state.user} />
         <div className="body">
           <div className="headline">
-            <h2>Read all about it</h2>
             <h1>Get the Latest News!</h1>
           </div>
           <Switch>

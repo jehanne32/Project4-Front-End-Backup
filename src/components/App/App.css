@@ -1,13 +1,10 @@
 .headline {
   font-family: "Sacramento", cursive;
-}
-
-body {
   background-color: black;
   padding: 2vw;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: 50vh;
   background-image: repeating-linear-gradient(
     to bottom,
     transparent 7px rgba(0, 0, 0, 0.8) 9px,
